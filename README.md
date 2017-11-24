@@ -1,3 +1,4 @@
 # OJS3-pt_PT-translation
-Missing Portuguese (Portugal) translations for OJS 3.1.0
-Place pt_PT folder from bootstrap3  into plugins/themes/bootstrap3/locale/
+Missing Brasilian Portuguese translations for OJS 3.0.2
+
+Place pt_BR folder from bootstrap3  into plugins/themes/bootstrap3/locale/
